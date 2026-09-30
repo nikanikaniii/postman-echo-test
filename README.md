@@ -1,0 +1,1 @@
+![Build](https://github.com/nikanikaniii/api-ci/actions/workflows/build.yml/badge.svg)
